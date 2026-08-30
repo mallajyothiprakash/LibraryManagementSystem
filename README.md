@@ -136,7 +136,7 @@ For local execution: **Java 17+, Maven, MySQL 8.x, Git, and a modern browser**. 
 From the repository root:
 
 ```bash
-git clone https://github.com/rohitsalapu00/LibraryManagementSystem.git
+git clone https://github.com/mallajyothiprakash/LibraryManagementSystem
 cd LibraryManagementSystem
 docker compose up --build -d
 docker compose ps
@@ -462,9 +462,9 @@ git push origin feature/your-feature
 
 ## Project Team
 
+- **Malla Jyothi Prakash**
 - **Salapu Rohit**
 - **Salla Vamsi Ram**
-- **Malla Jyothi Prakash**
 
 B.Tech Computer Science & Engineering, Lovely Professional University.
 
